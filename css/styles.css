@@ -10,3 +10,8 @@ h2 {
   color: green;
   font-weight: bold;
 }
+
+figcaption {
+  font-style: italic;
+}
+
