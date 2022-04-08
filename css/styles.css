@@ -4,9 +4,22 @@ body {
   column-count: 2;
 }
 
-.header,
-h3,
-h2 {
+.second-column {
+  align-content: left;
+  column-count: 1;
+}
+
+footer {
+  background-color: darkgreen;
+  font-family: "Courier New", Courier, monospace;
+  width: 100%;
+  text-align: left;
+  line-height: 250%;
+  color: black;
+
+}
+
+.header {
   color: green;
   font-weight: bold;
 }
@@ -18,4 +31,8 @@ figcaption {
 .table {
   width: 560px;
   height: 315px;
+}
+
+.button {
+  font-family: "Courier New", Courier, monospace;
 }
