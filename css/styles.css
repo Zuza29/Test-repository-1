@@ -24,6 +24,11 @@ footer {
 
 }
 
+.fas {
+  text-decoration: none;
+  color: lightgreen;
+}
+
 .header {
   color: green;
   font-weight: bold;
