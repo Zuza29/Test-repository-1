@@ -1,6 +1,11 @@
 body {
   background-color: greenyellow;
   font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+
+.first-column {
+  align-content: center;
   column-count: 2;
 }
 
