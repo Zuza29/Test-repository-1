@@ -63,3 +63,9 @@ td {
 .button {
   font-family: "Courier New", Courier, monospace;
 }
+
+.address {
+  text-decoration: none;
+  font-style: bold;
+  line-height: 150%;
+}
