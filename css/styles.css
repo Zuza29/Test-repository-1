@@ -2,6 +2,19 @@ body {
   background-color: greenyellow;
   font-family: "Courier New", Courier, monospace;
   text-align: center;
+  white-space: wrap;
+  line-height: 1,5;
+
+}
+
+body::selection {
+  background-color: lightgreen;
+  color: darkgreen;
+}
+
+.site-menu {
+  text-decoration: underline;
+  color: black;
 }
 
 .first-column {
