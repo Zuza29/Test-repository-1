@@ -59,7 +59,9 @@ h2 {
 
 .header {
   color: green;
+  font-family: 'Grape Nuts';
   font-weight: bold;
+  text-shadow: 2px 2px 4px lightgreen, 4px 4px 6px black;
 }
 
 figcaption {
